@@ -1,0 +1,32 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    background-color: rgb(210, 169, 248);
+}
+
+fieldset {
+    width: 320px;
+    border: 10px solid;
+    transform: translate(155%);
+    margin-top: 200px;
+
+}
+
+input[type="button"] {
+background-color: blueviolet;
+color: #fff;
+border: none;
+border-radius: 5px;
+padding: 5px;
+cursor: pointer;
+margin-top: 10px;
+
+
+}
+
+input[type="button"]:hover {
+background-color: rgb(182, 156, 212);
+
+}
+
+
